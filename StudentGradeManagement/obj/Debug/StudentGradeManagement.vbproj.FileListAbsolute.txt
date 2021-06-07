@@ -1,0 +1,27 @@
+C:\Users\BLADE-STEALTH\Desktop\New folder (3)\StudentGradeManagement\bin\Debug\StudentGradeManagement.exe.config
+C:\Users\BLADE-STEALTH\Desktop\New folder (3)\StudentGradeManagement\bin\Debug\StudentGradeManagement.exe
+C:\Users\BLADE-STEALTH\Desktop\New folder (3)\StudentGradeManagement\bin\Debug\StudentGradeManagement.pdb
+C:\Users\BLADE-STEALTH\Desktop\New folder (3)\StudentGradeManagement\bin\Debug\StudentGradeManagement.xml
+C:\Users\BLADE-STEALTH\Desktop\New folder (3)\StudentGradeManagement\obj\Debug\StudentGradeManagement.vbproj.AssemblyReference.cache
+C:\Users\BLADE-STEALTH\Desktop\New folder (3)\StudentGradeManagement\obj\Debug\StudentGradeManagement.Editor.resources
+C:\Users\BLADE-STEALTH\Desktop\New folder (3)\StudentGradeManagement\obj\Debug\StudentGradeManagement.Main.resources
+C:\Users\BLADE-STEALTH\Desktop\New folder (3)\StudentGradeManagement\obj\Debug\StudentGradeManagement.Resources.resources
+C:\Users\BLADE-STEALTH\Desktop\New folder (3)\StudentGradeManagement\obj\Debug\StudentGradeManagement.Print.resources
+C:\Users\BLADE-STEALTH\Desktop\New folder (3)\StudentGradeManagement\obj\Debug\StudentGradeManagement.vbproj.GenerateResource.cache
+C:\Users\BLADE-STEALTH\Desktop\New folder (3)\StudentGradeManagement\obj\Debug\StudentGradeManagement.vbproj.CoreCompileInputs.cache
+C:\Users\BLADE-STEALTH\Desktop\New folder (3)\StudentGradeManagement\obj\Debug\StudentGradeManagement.exe
+C:\Users\BLADE-STEALTH\Desktop\New folder (3)\StudentGradeManagement\obj\Debug\StudentGradeManagement.xml
+C:\Users\BLADE-STEALTH\Desktop\New folder (3)\StudentGradeManagement\obj\Debug\StudentGradeManagement.pdb
+C:\Users\ramib\Desktop\StudentGradeManagement-main\StudentGradeManagement-main\StudentGradeManagement\bin\Debug\StudentGradeManagement.exe.config
+C:\Users\ramib\Desktop\StudentGradeManagement-main\StudentGradeManagement-main\StudentGradeManagement\bin\Debug\StudentGradeManagement.exe
+C:\Users\ramib\Desktop\StudentGradeManagement-main\StudentGradeManagement-main\StudentGradeManagement\bin\Debug\StudentGradeManagement.pdb
+C:\Users\ramib\Desktop\StudentGradeManagement-main\StudentGradeManagement-main\StudentGradeManagement\obj\Debug\StudentGradeManagement.vbproj.AssemblyReference.cache
+C:\Users\ramib\Desktop\StudentGradeManagement-main\StudentGradeManagement-main\StudentGradeManagement\obj\Debug\StudentGradeManagement.Editor.resources
+C:\Users\ramib\Desktop\StudentGradeManagement-main\StudentGradeManagement-main\StudentGradeManagement\obj\Debug\StudentGradeManagement.Main.resources
+C:\Users\ramib\Desktop\StudentGradeManagement-main\StudentGradeManagement-main\StudentGradeManagement\obj\Debug\StudentGradeManagement.Resources.resources
+C:\Users\ramib\Desktop\StudentGradeManagement-main\StudentGradeManagement-main\StudentGradeManagement\obj\Debug\StudentGradeManagement.Print.resources
+C:\Users\ramib\Desktop\StudentGradeManagement-main\StudentGradeManagement-main\StudentGradeManagement\obj\Debug\StudentGradeManagement.vbproj.GenerateResource.cache
+C:\Users\ramib\Desktop\StudentGradeManagement-main\StudentGradeManagement-main\StudentGradeManagement\obj\Debug\StudentGradeManagement.vbproj.CoreCompileInputs.cache
+C:\Users\ramib\Desktop\StudentGradeManagement-main\StudentGradeManagement-main\StudentGradeManagement\obj\Debug\StudentGradeManagement.exe
+C:\Users\ramib\Desktop\StudentGradeManagement-main\StudentGradeManagement-main\StudentGradeManagement\obj\Debug\StudentGradeManagement.pdb
+C:\Users\ramib\Desktop\StudentGradeManagement-main\StudentGradeManagement-main\StudentGradeManagement\bin\Debug\StudentRecord.accdb
