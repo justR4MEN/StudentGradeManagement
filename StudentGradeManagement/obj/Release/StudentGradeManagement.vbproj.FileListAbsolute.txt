@@ -9,3 +9,24 @@ C:\Users\ramib\Desktop\StudentGradeManagement-main\StudentGradeManagement-main\S
 C:\Users\ramib\Desktop\StudentGradeManagement-main\StudentGradeManagement-main\StudentGradeManagement\obj\Release\StudentGradeManagement.vbproj.GenerateResource.cache
 C:\Users\ramib\Desktop\StudentGradeManagement-main\StudentGradeManagement-main\StudentGradeManagement\obj\Release\StudentGradeManagement.vbproj.CoreCompileInputs.cache
 C:\Users\ramib\Desktop\StudentGradeManagement-main\StudentGradeManagement-main\StudentGradeManagement\obj\Release\StudentGradeManagement.exe
+E:\SSD2021\Assessment task 2\StudentGradeManagement\bin\Release\StudentRecord.accdb
+E:\SSD2021\Assessment task 2\StudentGradeManagement\bin\Release\StudentGradeManagement.exe.config
+E:\SSD2021\Assessment task 2\StudentGradeManagement\bin\Release\StudentGradeManagement.exe
+E:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Release\StudentGradeManagement.Editor.resources
+E:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Release\StudentGradeManagement.Main.resources
+E:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Release\StudentGradeManagement.Resources.resources
+E:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Release\StudentGradeManagement.Print.resources
+E:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Release\StudentGradeManagement.vbproj.GenerateResource.cache
+E:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Release\StudentGradeManagement.vbproj.CoreCompileInputs.cache
+E:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Release\StudentGradeManagement.exe
+D:\SSD2021\Assessment task 2\StudentGradeManagement\bin\Release\StudentRecord.accdb
+D:\SSD2021\Assessment task 2\StudentGradeManagement\bin\Release\StudentGradeManagement.exe.config
+D:\SSD2021\Assessment task 2\StudentGradeManagement\bin\Release\StudentGradeManagement.exe
+D:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Release\StudentGradeManagement.vbprojAssemblyReference.cache
+D:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Release\StudentGradeManagement.Editor.resources
+D:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Release\StudentGradeManagement.Main.resources
+D:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Release\StudentGradeManagement.Resources.resources
+D:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Release\StudentGradeManagement.Print.resources
+D:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Release\StudentGradeManagement.vbproj.GenerateResource.cache
+D:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Release\StudentGradeManagement.vbproj.CoreCompileInputs.cache
+D:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Release\StudentGradeManagement.exe

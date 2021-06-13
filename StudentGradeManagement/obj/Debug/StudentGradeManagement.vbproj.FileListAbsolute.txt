@@ -25,3 +25,16 @@ C:\Users\ramib\Desktop\StudentGradeManagement-main\StudentGradeManagement-main\S
 C:\Users\ramib\Desktop\StudentGradeManagement-main\StudentGradeManagement-main\StudentGradeManagement\obj\Debug\StudentGradeManagement.exe
 C:\Users\ramib\Desktop\StudentGradeManagement-main\StudentGradeManagement-main\StudentGradeManagement\obj\Debug\StudentGradeManagement.pdb
 C:\Users\ramib\Desktop\StudentGradeManagement-main\StudentGradeManagement-main\StudentGradeManagement\bin\Debug\StudentRecord.accdb
+E:\SSD2021\Assessment task 2\StudentGradeManagement\bin\Debug\StudentRecord.accdb
+E:\SSD2021\Assessment task 2\StudentGradeManagement\bin\Debug\StudentGradeManagement.exe.config
+E:\SSD2021\Assessment task 2\StudentGradeManagement\bin\Debug\StudentGradeManagement.exe
+E:\SSD2021\Assessment task 2\StudentGradeManagement\bin\Debug\StudentGradeManagement.pdb
+E:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Debug\StudentGradeManagement.vbprojAssemblyReference.cache
+E:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Debug\StudentGradeManagement.Editor.resources
+E:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Debug\StudentGradeManagement.Main.resources
+E:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Debug\StudentGradeManagement.Resources.resources
+E:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Debug\StudentGradeManagement.Print.resources
+E:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Debug\StudentGradeManagement.vbproj.GenerateResource.cache
+E:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Debug\StudentGradeManagement.vbproj.CoreCompileInputs.cache
+E:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Debug\StudentGradeManagement.exe
+E:\SSD2021\Assessment task 2\StudentGradeManagement\obj\Debug\StudentGradeManagement.pdb

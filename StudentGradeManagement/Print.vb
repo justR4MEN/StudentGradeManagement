@@ -88,6 +88,16 @@ Public Class Print
             e.Graphics.DrawString(StudentViewer.Items(I_Counter).SubItems(7).Text, New Font("Times New Roman", 15), Brushes.Black, 610, HH)
             'Remarks
             e.Graphics.DrawString(StudentViewer.Items(I_Counter).SubItems(8).Text, New Font("Times New Roman", 15), Brushes.Black, 687, HH)
+
+            HH += 20
+            Linenumber += 1
+            If Linenumber = Lineperpage Then
+                Linenumber = 0
+                I_Start = I_Counter + 1
+                HH = 50
+                e.HasMorePages = True
+                Exit For
+            End If
         Next
     End Sub
     Private Sub cmdPrint_Click(sender As Object, e As EventArgs) Handles cmdPrint.Click
